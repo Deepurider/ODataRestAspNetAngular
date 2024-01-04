@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataRestApi", "ODataRestApi\ODataRestApi.csproj", "{8761EBED-032E-4B9D-8A56-2FBC6F20CAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7852737F-53A2-41A2-B011-2F26F856F16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8761EBED-032E-4B9D-8A56-2FBC6F20CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8761EBED-032E-4B9D-8A56-2FBC6F20CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8761EBED-032E-4B9D-8A56-2FBC6F20CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8761EBED-032E-4B9D-8A56-2FBC6F20CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7852737F-53A2-41A2-B011-2F26F856F16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7852737F-53A2-41A2-B011-2F26F856F16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7852737F-53A2-41A2-B011-2F26F856F16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7852737F-53A2-41A2-B011-2F26F856F16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFF1795-83FD-41A8-9053-074DE0407C99}
+	EndGlobalSection
+EndGlobal
