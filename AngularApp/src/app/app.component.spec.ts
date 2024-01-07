@@ -23,7 +23,7 @@ describe('AppComponent', () => {
   it(`should have as title 'ODataRestWithAngular'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('ODataRestWithAngular');
+    expect('').toEqual('ODataRestWithAngular');
   });
 
   it('should render title', () => {
